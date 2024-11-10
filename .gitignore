@@ -1,0 +1,8 @@
+/.vs
+/WpfApp/bin/Debug/net8.0-windows
+/BusinessObjects/bin/Debug/net8.0
+/DataAccessLayer/bin/Debug/net8.0
+/Repositories/bin/Debug/net8.0
+/WpfApp/obj
+/Repositories/obj
+/DataAccessLayer/obj
