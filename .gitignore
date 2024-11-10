@@ -1,3 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
 /.vs
 /WpfApp/bin/Debug/net8.0-windows
 /BusinessObjects/bin/Debug/net8.0
